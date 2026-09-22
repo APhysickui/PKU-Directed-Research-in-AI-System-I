@@ -1,0 +1,11 @@
+f45040b HEAD@{2026-09-22 11:28:46 +0800}: commit: add what I learned in readme.md
+518a6d1 HEAD@{2026-09-22 11:10:06 +0800}: checkout: moving from d7919e6652141f5c45de644d4632895c93a3b3e3 to main
+d7919e6 HEAD@{2026-09-22 11:09:22 +0800}: checkout: moving from main to d7919e6652141f5c45de644d4632895c93a3b3e3
+518a6d1 HEAD@{2026-09-22 10:54:08 +0800}: checkout: moving from main to main
+518a6d1 HEAD@{2026-09-22 10:49:00 +0800}: commit: Add ResNet inference on MNIST (images: 10000, accuracy: 0.1684
+d8c1fb5 HEAD@{2026-09-22 00:14:34 +0800}: checkout: moving from for_fun to main
+d7919e6 HEAD@{2026-09-22 00:12:01 +0800}: checkout: moving from main to for_fun
+d8c1fb5 HEAD@{2026-09-22 00:01:40 +0800}: commit: change hello world to aloha
+d7919e6 HEAD@{2026-09-21 23:59:09 +0800}: checkout: moving from for_fun to main
+d7919e6 HEAD@{2026-09-21 23:58:37 +0800}: checkout: moving from main to for_fun
+d7919e6 HEAD@{2026-09-21 23:50:23 +0800}: commit (initial): add readme

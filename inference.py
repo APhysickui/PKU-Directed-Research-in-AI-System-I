@@ -53,7 +53,7 @@ with torch.no_grad():
         # 形状 [64, 10]：64 张图，每张 10 个分数
         preds = model(**inputs).logits.argmax(dim=-1).cpu().tolist()
         #                            ↑ argmax(dim=-1)：在每行的 10 个分数里挑最大的那个的"下标"
-        #                              下标正好就是数字本身（0~9）→ 这就是模型的预测答案
+       #                              下标正好就是数字本身（0~9）→ 这就是模型的预测答案
         #                              .cpu().tolist()：从 GPU 搬回 CPU，再变成 Python 列表
 
         # 把这一批的预测和正确答案逐个比，True 当 1 加，统计对了多少张
